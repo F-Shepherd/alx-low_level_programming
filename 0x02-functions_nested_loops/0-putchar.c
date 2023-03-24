@@ -1,10 +1,9 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
- * main - Entry point.
- * Description: write a program that prints "_putchar" followed by a new line.
- * Return: Always 0 (Success.)
+ * main - main function.
+ *_putchar: print the alphabets putchar
+ *Return: always 0
  */
 int main(void)
 {
